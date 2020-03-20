@@ -2,6 +2,10 @@
 
 Cross-Platform mobile app for NoteApp
 
+## Download
+
+Download from [google drive](https://drive.google.com/file/d/1rPzNHxb54WkNaxyJoRRuFcmOG5sdAaoA/view) to use the app.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
